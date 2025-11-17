@@ -8,7 +8,7 @@ This report provides insights on **sales trends, customer behavior, payment pref
 
 ## 📌 **🔗 Power BI Dashboard – Live Link**
 👉 *Paste your Power BI Service link:*  
-**[VIEW LIVE DASHBOARD](#)**
+**https://app.powerbi.com/view?r=eyJrIjoiYmRjMTM3NWMtYzJkMS00ZWMwLTk0YWItMTQ0NWFhZTQ1MDdmIiwidCI6ImNiZDg4NjMyLTc2YTgtNGE3Mi1hYjlmLTJmODVhZTZmYjllZCJ9**
 
 ---
 
@@ -151,4 +151,34 @@ Slight dips in June & July.
 ---
 
 # 📂 **Project Structure**
+
+
+---
+
+# 🛠️ **Tools & Technologies Used**
+
+- Power BI Desktop  
+- Power Query
+- DAX  
+- Excel  
+- Data Modeling  
+- GitHub Version Control  
+
+---
+
+# 🎓 **What I Learned from This Project**
+
+✔ Data cleaning & transformation using **Power Query**  
+✔ Designing professional **Power BI dashboards**  
+✔ Creating **DAX measures** for MTD, YoY, Avg Price  
+✔ Building a Proper **Date Table**  
+✔ Publishing to **Power BI Service**  
+✔ Organizing and documenting analytics projects for **GitHub**  
+✔ Improving visual storytelling & UI/UX in dashboards  
+
+---
+
+# 🙌 **Developed by: Lavanya Pashine**
+
+If you like this project, feel free to ⭐ star the repo and explore the dashboard using the link above!
 
