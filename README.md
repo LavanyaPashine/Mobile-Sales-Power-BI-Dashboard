@@ -37,8 +37,8 @@ Each page contains screenshots and Q&A.
 # 📘 **PAGE 1 — DASHBOARD**
 
 ## 🖼️ **Screenshot – Dashboard Page**
-> *(Upload your screenshot in the repo and replace the link below)*  
-![Dashboard Screenshot](./images/dashboard_page.png)
+ 
+![Dashboard Screenshot](./DASHBOARD.png)
 
 ---
 
@@ -87,7 +87,7 @@ UPI → **26.71%**, Debit Card → **25.55%**, Cash → **24.39%**
 # 📘 **PAGE 2 — MTD REPORT**
 
 ## 🖼️ **Screenshot – MTD Page**
-![MTD Screenshot](./images/mtd_report.png)
+![MTD Screenshot](./MTD_REPORT.png)
 
 ---
 
@@ -118,7 +118,7 @@ Around: July 10, July 14, July 21, July 28.
 # 📘 **PAGE 3 — SAME PERIOD LAST YEAR (SP-LY)**
 
 ## 🖼️ **Screenshot – SP-LY Page**
-![Same Period Last Year Screenshot](./images/same_period_last_year.png)
+![Same Period Last Year Screenshot](./SAME_PERIOD_LAST_YEAR.png)
 
 ---
 
