@@ -6,8 +6,7 @@ This report provides insights on **sales trends, customer behavior, payment pref
 
 ---
 
-## 📌 **🔗 Power BI Dashboard – Live Link**
-👉 *Paste your Power BI Service link:*  
+## 📌 **🔗 Power BI Dashboard – Live Link** 
 **https://app.powerbi.com/view?r=eyJrIjoiYmRjMTM3NWMtYzJkMS00ZWMwLTk0YWItMTQ0NWFhZTQ1MDdmIiwidCI6ImNiZDg4NjMyLTc2YTgtNGE3Mi1hYjlmLTJmODVhZTZmYjllZCJ9**
 
 ---
